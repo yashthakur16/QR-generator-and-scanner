@@ -1,0 +1,1 @@
+# QR-generator-and-acanner
