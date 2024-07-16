@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # QR Code Generator and Scanner
 
 This project provides an efficient solution for generating and scanning QR codes using Python. It leverages Python's powerful libraries to handle tasks such as reading from Excel files, generating QR codes, and scanning them to store data in a CSV file.
